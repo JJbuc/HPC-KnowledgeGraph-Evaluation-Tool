@@ -38,8 +38,8 @@ src/
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hpc-kg-evaluation.git
-cd hpc-kg-evaluation
+git clone https://github.com/JJbuc/HPC-KnowledgeGraph-Evaluation-Tool.git
+cd HPC-KnowledgeGraph-Evaluation-Tool
 ```
 
 2. Create a virtual environment (recommended):
